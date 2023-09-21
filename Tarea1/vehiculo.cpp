@@ -19,6 +19,7 @@ Vehiculo::~Vehiculo()
     cout << "\n Destructor de vehiculo";
 }
 
+// amongus
 // TODO manejar excepciones para que el usuario no ingrese un valor que no corresponda
 void Vehiculo::PedirDatosVehiculo()
 {
